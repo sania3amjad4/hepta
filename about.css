@@ -1,0 +1,222 @@
+.first-section{
+    background-image: url("./images/imgi_1_img_1_long.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    height: 600px;
+    width: 100%;
+}
+.main{
+  padding: 10px;
+  display:flex;
+}
+.logo{
+  float: left;
+  width: 50%;
+  margin-top: 10px;
+  color: rgb(235, 236, 238);
+  font-size: 20px;
+}
+
+.menu{
+  text-align: right;
+  width: 50%;
+  padding:38px;
+}
+
+.content {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.content div h1 {
+  margin-top:13% ;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.content div p {
+  margin-top: -5%;
+  color:white;
+  font-size: 30px;
+}
+
+.second div{
+  width:50%
+  
+}
+.second{
+    display: flex;
+    margin-top:10%;
+
+}
+.second div h1{
+    margin-top: 25%;
+    color: black;
+    font-size: 35px;
+}
+.second div img{
+    text-align: center;
+    margin-left: 57px;
+}
+.second div button{
+    font-size: 20px;
+    border-color: rgb(55, 198, 198);
+}
+.second-a{
+  margin-left: 15%;
+}
+
+.three{
+  text-align:center;
+}
+.three p{
+  font-size: 20px;
+}
+.three h1{
+  margin-top: 25%;
+  font-size: 65px;
+  font-weight: bold;
+}
+.three-1{
+  display: flex;
+  text-align: center;
+}
+.three-a{
+  width: 10%;
+}
+.three-b{
+  width: 80%;
+}
+
+.next{
+  margin-top: 20rem;;
+
+}
+
+.four{
+  margin-top: 10%;
+  background-color: rgb(236, 239, 242);
+}
+
+.mh h1{
+  padding-top: 10px;
+  font-size: 50px;
+  text-align: center;
+}
+.mh p{
+  text-align: center;
+  font-size: 20px;
+}
+.four-1 div{
+   width: 33.33%;
+}
+.four-1{
+  margin-top:10% ;
+  display: flex;
+  text-align: center;
+}
+.four-1 div img{
+  width:90%
+}
+
+.four-a {
+  background-color: white;
+  margin-left: 30px;
+  margin-bottom: 40px;
+}
+.four-b{
+  background-color: white;
+  margin-left: 25px;
+  margin-bottom: 40px;
+}
+.four-c {
+  background-color: white;
+  margin-left: 25px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+}
+.four-2 div{
+  width:33.33%;
+}
+
+.four-2 div img{
+  width: 90%;
+}
+.four-2{
+  margin-top: 5px;
+  display: flex;
+  text-align: center;
+}
+.four-d{
+  background-color: white; 
+  margin-left: 30px;
+  margin-bottom: 40px;
+}
+
+.four-e{
+  background-color: white;
+  margin-left: 25px;
+  margin-bottom: 40px;
+}
+.four-f {
+  background-color: white;
+  margin-left: 25px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+}
+
+
+.seven{
+  margin-top: 9%;
+}
+
+.seven-a {
+  display: flex; 
+  padding: 20px;
+  padding-top: 10%;
+  /* border-bottom: 2px solid red !important; */
+  height:600px;
+}
+
+.seven-a h1 {
+  font-size: 30px;
+  color: ghostwhite;
+}
+
+.seven-a div {
+  width: 25%;
+  color: gainsboro;
+}
+.seven-a ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.test-seven {
+  background-color: black;
+}
+
+ul > li{
+  padding: 12px;
+}
+
+.test {
+  display: flex;
+}
+.text-test {
+  margin-top: 20px;
+}
+ hr{
+  color: rgb(162, 159, 159);
+
+ }
+
+ .last{
+  text-align: center;
+  font-size: larger;
+  font-style:italic;
+  color: white;
+  
+ }

@@ -1,0 +1,189 @@
+.section{
+    background-image: url("./images/imgi_4_hero_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 700px;
+    width:100%;
+}
+.main{
+  padding: 10px;
+  display:flex;
+}
+.logo{
+  float: left;
+  width: 50%;
+  margin-top: 10px;
+  color: rgb(235, 236, 238);
+  font-size: 20px;
+}
+
+.menu{
+  text-align: right;
+  width: 50%;
+  padding:38px;
+}
+
+.logo-2 {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.logo-2 div h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.logo-2 div p {
+  color:white;
+  font-size: 30px;
+  margin-top: -5%;
+}
+
+.six-1 > six-a, six-b{
+    width: 70%;
+}
+.six-1{
+  margin-top: 5%;
+  display: flex;
+  padding: 30px;
+  margin-left:4%;
+}
+
+.six-b{
+  margin-left: -6%;
+}
+
+.six-1 div img{
+  width:80% !important;
+}
+ .six-test{
+  width: 30%;
+ }
+
+ .six-test-0{
+  width: 90% !important;
+  background-color: gainsboro;
+  padding: 20px;
+ }
+
+ .six-test-1{
+  display: flex;
+  margin-top: 10%;
+ }
+
+ .six-test-1 > div{
+  width: 50%;
+  
+ }
+
+ .test-six{
+  margin-top: 1px;
+ }
+
+ .six-2 >six-2a, six-2b{
+  width:70%;
+ }
+ .six-2c{
+  width: 30%;
+ }
+ .six-2{
+  display: flex;
+  padding: 30px;
+  margin-left:4%;
+}
+
+ .six-2 div img{
+  width: 76%;
+ }
+ 
+ .six-2b{
+  margin-left: -8.5%;
+ }
+
+.six-2c ul{
+  list-style:none ;
+  margin-top: -2px;
+  margin-left: -4px;
+ }
+.six-2c div{
+  margin-left:-10%;
+  margin-top: -6px;
+  background-color:rgb(235, 233, 233);
+}
+
+
+.six-3 >six-3a, six-3b{
+  width:50%;
+ }
+ 
+ .six-3{
+  display: flex;
+  padding: 30px;
+  margin-left:4%;
+}
+
+ .six-3 div img{
+  width: 60%;
+ }
+ 
+ .six-3b{
+  margin-left:-21.4%;
+ }
+ 
+
+.seven-a {
+  display: flex; 
+  padding: 20px;
+  /* border-bottom: 2px solid red !important; */
+  height:600px;
+}
+
+.seven-a h1 {
+  font-size: 30px;
+  color: ghostwhite;
+}
+
+.seven-a div {
+  width: 25%;
+  color: gainsboro;
+}
+.seven-a ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.test-seven {
+  background-color: black;
+}
+
+ul > li{
+  padding: 12px;
+}
+
+.test {
+  display: flex;
+}
+.text-test {
+  margin-top: 20px;
+}
+ hr{
+  color: rgb(162, 159, 159);
+
+ }
+
+ .last{
+  text-align: center;
+  font-size: larger;
+  font-style:italic;
+  color: white;
+  
+ }
+
+
+
+
+
+
+

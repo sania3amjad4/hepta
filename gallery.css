@@ -1,0 +1,135 @@
+.section{
+    background-image:url("./images/imgi_1_img_1_long.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 700px;
+    width:100%;
+}
+.main{
+  padding: 10px;
+  display:flex;
+}
+.logo{
+  float: left;
+  width: 50%;
+  margin-top: 10px;
+  color: rgb(235, 236, 238);
+  font-size: 20px;
+}
+
+.menu{
+  text-align: right;
+  width: 50%;
+  padding:38px;
+}
+
+.logo-2 {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.logo-2 div h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.logo-2 div p {
+  color:white;
+  font-size: 30px;
+  margin-top: -5%;}
+
+  .first{
+    margin-top: 5%;
+  }
+  .first-a div{
+    width: 25%;
+  }
+  .first-a img{
+    width: 90%;
+  }
+  .first-a{
+    display: flex;
+    padding: 40px;
+  }
+  .first-b div{
+    width: 25%;
+  }
+  .first-b img{
+    width: 90%;
+  }
+  .first-b{
+    display: flex;
+    padding: 40px;
+  }
+.first-c div{
+    width: 50%;
+}
+.first-c{
+    display: flex;
+    padding: 50px;
+}
+.first-c div img{
+    width: 95%;
+}
+
+ .first-d div{
+    width: 25%;
+  }
+  .first-d img{
+    width: 90%;
+  }
+  .first-d{
+    display: flex;
+    padding: 40px;
+  }
+
+  .seven-a {
+  display: flex; 
+  padding: 20px;
+  /* border-bottom: 2px solid red !important; */
+  height:600px;
+}
+
+.seven-a h1 {
+  font-size: 30px;
+  color: ghostwhite;
+}
+
+.seven-a div {
+  width: 25%;
+  color: gainsboro;
+}
+.seven-a ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.test-seven {
+  background-color: black;
+}
+
+ul > li{
+  padding: 12px;
+}
+
+.test {
+  display: flex;
+}
+.text-test {
+  margin-top: 20px;
+}
+ hr{
+  color: rgb(162, 159, 159);
+
+ }
+
+ .last{
+  text-align: center;
+  font-size: larger;
+  font-style:italic;
+  color: white;
+  
+ }
+ 

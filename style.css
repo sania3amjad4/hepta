@@ -1,0 +1,264 @@
+.hero-section {
+  background-image: url("./images/imgi_22_hero_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 700px;
+  width: 100%;
+}
+
+.hero-1 {
+  padding: 10px;
+  display: flex;
+}
+
+.hero-logo {
+  float: left;
+  width: 50%;
+  margin-top: 10px;
+  color: rgb(132, 140, 147);
+  font-size: 20px;
+  /* border: 1px solid red; */
+}
+
+.hero-menu {
+  /* float: right !important; */
+  text-align: right;
+  margin-top: 32px;
+  width: 50%;
+}
+
+.hero-2 {
+  text-align: center;
+  margin-top: 15%;
+}
+
+.hero-2 h1 {
+  font-size: 70px;
+  color: white;
+}
+
+.hero-2 p {
+  color:white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.hero-2 button {
+  width: 10%;
+  height: 50px;
+}
+
+.second {
+  display: flex;
+}
+
+.second div {
+  width: 50%;
+  /* border: 1px solid black;*/
+  padding: 20px;
+}
+
+.second div h1 {
+  margin-top: 35%;
+  font-size: 30px;
+  font-weight: bold;
+}
+.second div img {
+  text-align: center;
+}
+.second div span {
+  color: cadetblue;
+}
+
+.third {
+  background-color: rgb(252, 252, 245);
+}
+.third-a {
+  margin-top: 20%;
+  text-align: center;
+}
+
+.third-b div {
+  width: 33.33%;
+}
+.third-b {
+  margin-top: 6%;
+  display: flex;
+  text-align: center;
+}
+
+.third-c div {
+  width: 33.33%;
+}
+.third-c {
+  margin-top: 5%;
+  display: flex;
+  text-align: center;
+}
+
+.four {
+  text-align: center;
+}
+.four h1 {
+  font-size: 60px;
+}
+
+.five {
+  display: flex;
+  text-align: center;
+}
+
+.five a {
+  width: 5%;
+}
+
+.five b {
+  width: 80%;
+}
+
+.next {
+  margin-top: 20rem;
+}
+
+.sixth {
+  background-color: rgb(125, 208, 196);
+}
+.six-a div {
+  text-align: center;
+}
+.six-a div h1 {
+  font-size: 50px;
+}
+.six-a div p {
+  color: whitesmoke;
+}
+.six-b div {
+  width: 33.33%;
+}
+.six-b {
+  margin-top: 5%;
+  display: flex;
+  text-align: center;
+}
+.six-b div img {
+  width: 100%;
+}
+.six-c {
+  background-color: white;
+  margin-left: 30px;
+  margin-bottom: 40px;
+}
+.six-d {
+  background-color: white;
+  margin-left: 25px;
+  margin-bottom: 40px;
+}
+.six-e {
+  background-color: white;
+  margin-left: 25px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+}
+
+.seven div h1 {
+  margin-top: 10%;
+  text-align: center;
+  font-size: 70px;
+}
+
+.seven {
+  background-color: rgb(247, 247, 242);
+}
+.custm {
+  margin-top: 5%;
+  text-align: start;
+  display: flex;
+  margin-left: 40px;
+}
+.custm div {
+  width: 33.33%;
+}
+
+.custm div img {
+  border-radius: 50%;
+  width: 65px;
+}
+.custm div p {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.eight-a h1 {
+  margin-top: 15%;
+  font-size: 32px;
+  text-align: center;
+}
+.eight-a p {
+  text-align: center;
+}
+
+.eight-b {
+  margin-top: 7%;
+  padding: 40px;
+  display: flex;
+}
+
+.eight-b div {
+  width: 25%;
+}
+
+.eight-b img {
+  width: 85%;
+}
+
+.nine-a {
+  margin-top: 10%;
+  display: flex; 
+  padding: 20px;
+  /* border-bottom: 2px solid red !important; */
+  height: 400px;
+}
+
+.nine-a h1 {
+  font-size: 30px;
+  color: ghostwhite;
+}
+
+.nine-a div {
+  width: 25%;
+  color: gainsboro;
+}
+.nine-a ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.test-nine {
+  background-color: black;
+}
+
+ul > li{
+  padding: 12px;
+}
+
+.test {
+  display: flex;
+}
+.text-test {
+  margin-top: 20px;
+}
+ hr{
+  color: rgb(162, 159, 159);
+ }
+
+ .last{
+  text-align: center;
+  font-size: larger;
+  font-style:italic;
+  color: white;
+  
+ }
+ 
+
+

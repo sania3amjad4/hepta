@@ -1,0 +1,171 @@
+.section{
+    background-image: url("./images/imgi_13_slider-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 700px;
+    width:100%;
+}
+.main{
+  padding: 10px;
+  display:flex;
+}
+.logo{
+  float: left;
+  width: 50%;
+  margin-top: 10px;
+  color: rgb(235, 236, 238);
+  font-size: 20px;
+}
+
+.menu{
+  text-align: right;
+  width: 50%;
+  padding:38px;
+}
+
+.logo-2 {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.logo-2 div h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.logo-2 div p {
+  color:white;
+  font-size: 30px;
+  margin-top: -5%;
+}
+
+
+.first{
+    margin-top: 5%;
+    display: flex;
+    height: 500px;
+    /* text-align: center; */
+}
+
+.first div{
+ width: 50%;
+ margin-left: 10%;
+}
+
+.second{
+  margin-left: 20%;
+}
+.first-a{
+  padding: 29px;
+}
+
+.t-1{
+  width: 100%;
+  height: 30px;
+  padding: 4px;
+}
+.t-2{
+  margin-left: 20px;
+  padding: 4px;
+  width: 100%;
+  height: 30px;
+}
+.t-3{
+  padding: 4px;
+  width: 225%;
+  height: 30px;
+}
+.t-4{
+  height: 190px;
+  width: 225%;
+}
+
+.third div h1 {
+  margin-top: 10%;
+  text-align: center;
+  font-size: 70px;
+}
+
+.third {
+  background-color: rgb(247, 247, 242);
+  height: 600px;
+}
+.custm {
+  margin-top: 5%;
+  text-align: start;
+  display: flex;
+  margin-left: 40px;
+}
+.custm div {
+  width: 33.33%;
+}
+
+.custm div img {
+  border-radius: 50%;
+  width: 65px;
+}
+.custm div p {
+  font-size: 20px;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+.seven-a {
+  display: flex; 
+  padding: 20px;
+  /* border-bottom: 2px solid red !important; */
+  height:600px;
+}
+
+.seven-a h1 {
+  font-size: 30px;
+  color: ghostwhite;
+}
+
+.seven-a div {
+  width: 25%;
+  color: gainsboro;
+}
+.seven-a ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.test-seven {
+  background-color: black;
+}
+
+ul > li{
+  padding: 12px;
+}
+
+.test {
+  display: flex;
+}
+.text-test {
+  margin-top: 20px;
+}
+ hr{
+  color: rgb(162, 159, 159);
+
+ }
+
+ .last{
+  text-align: center;
+  font-size: larger;
+  font-style:italic;
+  color: white;
+  
+ }
+
